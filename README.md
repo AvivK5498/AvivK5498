@@ -1,3 +1,5 @@
+# About Me
+
 Senior Software Engineer at Salesforce. Seasoned vibe coder. Completely obsessed with agentic AI.
 I fell into the rabbit hole—multi-agent orchestration, Claude Code, MCP tools, subagent systems—and tbh I have no intention of climbing out. What interests me isn't the flashy demos. It's the messy middle. How do you make AI agents actually work together without everything falling apart?
 I build tools I wish existed. Nobody's paying me to do this. I just can't stop.
